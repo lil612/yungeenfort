@@ -13,7 +13,7 @@ def run(LINK):
 
 if __name__=='__main__':
     queue = [
-        
+
     ]
     for video in queue:
         run(video)
